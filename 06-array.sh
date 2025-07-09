@@ -1,4 +1,4 @@
-NAME=("Ram","sita","Lakshman")
+NAME=("Ram""sita""Lakshman")
 
 echo "${NAME[0]}"
 echo "${NAME[1]}"
