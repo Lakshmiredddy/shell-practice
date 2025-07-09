@@ -1,0 +1,5 @@
+echo "to see the PID: $$"
+echo " To see the file name: $0"
+echo " to see the 1st arrugunet $1"
+echo " to see the number of arrgment passed in the scrpit $# "
+echo " $*"
